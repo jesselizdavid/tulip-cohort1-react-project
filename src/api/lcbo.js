@@ -1,5 +1,5 @@
 const { REACT_APP_LCBO_API_KEY } = process.env;
-console.log(process.env);
+console.log('process', process.env);
 
 const LCBO_API_BASE_URL = "https://lcboapi.com/";
 
