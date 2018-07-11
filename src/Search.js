@@ -9,7 +9,7 @@ export default class Search extends React.Component {
         super(props);
         this.state = {
             value: '',
-            coordinates: []
+            productNames: []
         };
         
 
